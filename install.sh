@@ -63,9 +63,6 @@ install_packages "${MAINTENANCE[@]}"
 echo "Installing desktop environment..."
 install_packages "${DESKTOP[@]}"
 
-echo "Installing desktop environment..."
-install_packages "${OFFICE[@]}"
-
 echo "Installing media packages..."
 install_packages "${MEDIA[@]}"
 
