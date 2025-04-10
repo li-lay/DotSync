@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# This script will install tmux plugin manager
+# If you are a tmux user, This script will install tmux plugin manager
+# Simply run this script to install TPM
 
 set -e
 
